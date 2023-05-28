@@ -2,7 +2,7 @@ import './faqs.css';
  
 const FAQs = () => {
   return (
-    <section id='faqs'></section>
+    <section id='faqs'><h2>FAQs</h2></section>
   )
 }
 
